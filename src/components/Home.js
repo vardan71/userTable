@@ -3,7 +3,6 @@ import { Table } from 'antd';
 import usersData from "./MOCK_DATA.json";
 import { Link } from 'react-router-dom';
 
-
 const columns = [
   {
     title: 'ID',
