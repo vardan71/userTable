@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+}
+
+.tableDiv {
+  width: 60%;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
