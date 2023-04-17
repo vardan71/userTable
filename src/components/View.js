@@ -8,7 +8,7 @@ import TableRow from '@material-ui/core/TableRow';
 const View = () => {
   const location = useLocation();
   const propsData = location.state;
-  const usData = usersData[propsData - 1]
+  const usData = usersData[propsData - 1];
 
   return (
     <div className='tableDiv'>
